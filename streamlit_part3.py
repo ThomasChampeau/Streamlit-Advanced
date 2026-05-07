@@ -74,7 +74,7 @@ elif selection == "Photos":
 # Contenu de la troisième colonne : 
     with col3:
         st.header("Angry")
-            st.image("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.o92DjkjzT2Oe42-UbndRugHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=13dc838a616746e907864236a8d4da9ae6177c0a1388f5cf6658c4a2df933285&ipo=images")
+        st.image("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.o92DjkjzT2Oe42-UbndRugHaEK%3Fr%3D0%26pid%3DApi&f=1&ipt=13dc838a616746e907864236a8d4da9ae6177c0a1388f5cf6658c4a2df933285&ipo=images")
 
 
     elif st.session_state["authentication_status"] is False:
